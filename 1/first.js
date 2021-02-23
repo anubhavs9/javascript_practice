@@ -1,0 +1,1 @@
+document.getElementById("my_output").innerHTML = "<h1>Welcome! We manipulated inner HTML of a div in this page.</h1>";
