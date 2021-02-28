@@ -1,0 +1,1 @@
+Declaring variables in Javascript 2
